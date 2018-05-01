@@ -75,8 +75,8 @@ body:after {
   opacity: 1;
 }
 .fade .full .slide { 
-  /*background: url(../images/bg-sandstone-2.png);*/
-  background: url(../images/bg-blush-2.png);
+  background: url(../images/bg-sandstone-2.png);
+  /*background: url(../images/bg-blush-2.png);*/
 }
 /* 
   Picture frame
